@@ -117,4 +117,13 @@ p{
   padding: 7% 15%;
 }
 
-/* uwooogghhh */
+/* Pricing section  */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column{
+  /* padding: 3% 2%; */
+}
